@@ -9,7 +9,7 @@
   },
   "scripts": {
     "build": "npx webpack --config ./src/webpack.config.js --mode production",
-    "dev": "npx webpack --config ./src/webpack.config.js --mode development --watch",
+    "dev": "npx webpack --config ./src/webpack.config.js --mode development --watch"
     
   },
   "author": "githubtraining",
